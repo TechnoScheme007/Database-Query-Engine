@@ -1,0 +1,7 @@
+[package]
+name = "sqlengine"
+version = "0.1.0"
+edition = "2021"
+description = "An in-memory SQL database engine with tokenizer, parser, and query planner — zero dependencies"
+
+[dependencies]
